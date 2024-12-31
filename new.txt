@@ -1,13 +1,6 @@
-<<<<<<< Updated upstream
-salam salam
-
-akfsdf;js
-=======
 1 salam salam
 2
 3 stash test 1
 4 aaaaaa
 5 bbbbbb
 6 cccccc
-
->>>>>>> Stashed changes
