@@ -4,3 +4,13 @@
 4 aaaaaa
 5 bbbbbb
 6 cccccc
+
+<<<<<<< Updated upstream
+20
+21
+=======
+7
+8
+9
+10
+>>>>>>> Stashed changes
